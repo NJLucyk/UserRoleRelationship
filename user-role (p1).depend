@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1349245495 source:d:\documents\_source code\c++\c210\user-role (p1)\pa1.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<cstdlib>
+
